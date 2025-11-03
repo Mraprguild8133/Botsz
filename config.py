@@ -55,12 +55,12 @@ class Config:
 
 <blockquote><b>🔗 Share and Support 💝</b></blockquote>"""
     
-    START_IMAGE_URL = 'https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg'
-    MOVIE_LIST_IMAGE_URL = 'https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg'
+    START_IMAGE_URL = 'https://envs.sh/gcg.jpg'
+    MOVIE_LIST_IMAGE_URL = 'https://envs.sh/gcg.jpg'
     
     START_BUTTONS = [
-        {'text': '🔗 GitHub 🔗', 'url': 'https://github.com/SudoR2spr'},
-        {'text': '⚡ Powered By', 'url': 'https://t.me/Opleech_WD'}
+        {'text': '🔗 GitHub 🔗', 'url': 'https://github.com/Mraprguild'},
+        {'text': '⚡ Powered By', 'url': 'https://t.me/Sathishkumar33'}
     ]
     
     MOVIE_LIST_CAPTION = """<b><blockquote>🔗 Select a Movie from the list 🎬</blockquote></b>\n\n🔘 Please select a movie:"""
