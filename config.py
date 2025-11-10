@@ -14,7 +14,7 @@ class Config:
     DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
     
     # Scraper Configuration
-    TAMILMV_URL = os.getenv('TAMILMV_URL', 'https://www.1tamilmv.boo')
+    TAMILMV_URL = os.getenv('TAMILMV_URL', 'https://www.1tamilmv.land')
     MAX_MOVIES = int(os.getenv('MAX_MOVIES', 15))
     REQUEST_TIMEOUT = int(os.getenv('REQUEST_TIMEOUT', 30))
     CACHE_DURATION_MINUTES = int(os.getenv('CACHE_DURATION_MINUTES', 10))
