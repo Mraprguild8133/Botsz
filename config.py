@@ -10,7 +10,7 @@ class Config:
     TOKEN = os.getenv('TOKEN')
     WEBHOOK_URL = os.getenv('WEBHOOK_URL')
     HOST = os.getenv('HOST', '0.0.0.0')
-    PORT = int(os.getenv('PORT', 3000))
+    PORT = int(os.getenv('PORT', 8000))
     DEBUG = os.getenv('DEBUG', 'False').lower() == 'true'
     
     # Scraper Configuration
